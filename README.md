@@ -1,4 +1,6 @@
 # final_project_nba<br>
+Our data is about the 2016-1017 NBA season from <br>
+https://www.basketball-reference.com/leagues/NBA_2017_per_game.html<br>
 <br>
 mins_per_g - minutes played per game <br>
 fg_per_g - field goals per game<br>
