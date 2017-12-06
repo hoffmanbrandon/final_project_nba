@@ -1,3 +1,5 @@
+Link to our Youtube video!! <br>
+https://www.youtube.com/watch?v=J4giOUcuXec&feature=youtu.be <br>
 # final_project_nba<br>
 Our data is about the 2016-1017 NBA season from <br>
 https://www.basketball-reference.com/leagues/NBA_2017_per_game.html<br>
